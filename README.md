@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Banking Management System](https://github.com/Sureshreddy18/BankManagementSystem-JavaProject.git)
 
-- 🌱 I’m currently learning **Advance Java,SpringBoot**
+- 🌱 I’m currently learning **Advance Java,Spring and SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sureshreddy18](https://github.com/Sureshreddy18)
 
